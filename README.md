@@ -9,6 +9,7 @@ A simple Kahoot Flooder that actually works!
 ## Installation
 * Install Google Chrome (if not already installed)
 * Make sure Google Chrome is up-to-date
+* You have to replace the chromedriverwindows.exe file iwth the newest chrome driver
 * Install the latest version of Python (if not already installed)
 * Download or clone the repository
 * cd into KahootFlooder
