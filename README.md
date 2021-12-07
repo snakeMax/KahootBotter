@@ -9,14 +9,14 @@ A simple Kahoot Flooder that actually works!
 ## Installation
 * Install Google Chrome (if not already installed)
 * Make sure Google Chrome is up-to-date
-* You have to replace the chromedriverwindows.exe file iwth the newest chrome driver
+* You have to replace the chromedriverwindows.exe file with the newest chrome driver (must have same name)
 * Install the latest version of Python (if not already installed)
 * Download or clone the repository
 * cd into KahootFlooder
 * Install Selenium - ```pip install selenium```
 
 ## Usage
-1. Run ```python main.py```
+1. Run ```python main.py``` (for example in cmd)
 2. Enter the Game PIN
 3. Choose between custom or random bot names
 4. Enter the bot amount
